@@ -1,3 +1,6 @@
+/.vscode
+/bin
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -12,4 +15,12 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+
+generate_model.rb
+
+.idea/
+vendor
+coverage.txt
+logfile.log
+
+res/authentication.txt

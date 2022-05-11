@@ -1,2 +1,19 @@
-# suga
-The Bhojpur Suga is a software-as-a-service product used as a Chat Engine based on Bhojpur.NET Platform for application delivery.
+# Bhojpur Suga - Conversation Engine
+
+The `Bhojpur Suga` is a secure, high performance, intelligent conversation engine applied
+within the [Bhojpur.NET Platform](https://github.com/bhojpur/platform/) ecosystem for
+delivery of distributed `applications` or `services`.
+
+## Simple Usage
+
+You can run the `server` by issuing the following command
+
+```bash
+go run ./cmd/server/main.go
+```
+
+You can run the `client` by issuing the following command
+
+```bash
+go run ./cmd/client/main.go
+```

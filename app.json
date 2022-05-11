@@ -1,0 +1,13 @@
+{
+    "name": "bhojpur-suga",
+    "description": "Your companion",
+    "keywords": [
+      "chatbot",
+      "golang",
+      "bhojpur",
+      "suga",
+      "machine-learning"
+    ],
+    "website": "https://bhojpur.net",
+    "repository": "https://github.com/bhojpur/suga"
+  }
